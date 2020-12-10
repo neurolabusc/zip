@@ -1,4 +1,4 @@
-//gcc -I. -Iminiz.h zip.c trxtest.c -o tst; ./tst
+//gcc  -I../src ../src/zip.c trxtest.c -o tst; ./tst
 
 #include <zip.h>
 
